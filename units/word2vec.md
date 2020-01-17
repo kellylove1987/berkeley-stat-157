@@ -11,7 +11,7 @@
   * Similarity and Analogy [Jupyter](../../slides/4_18/similarity-analogy.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_18/similarity-analogy.ipynb)
   * Sentiment Analysis [Jupyter](../../slides/4_18/sentiment-analysis-rnn.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_18/sentiment-analysis-rnn.ipynb)
 
-## Vidoes
+## Videos
 
 
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/jh7y044-qy4" frameborder="0" allowfullscreen></iframe></center>
